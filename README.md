@@ -9,3 +9,15 @@ This repository contains data science projects done by me for academic as well f
    Performed data analysis and feature engineering on Black Friday dataset .Mainly aimed to understand the customer purchase behaviour (specifically, purchase amount)      against various products of different categories. Visualised using  matplotlib and seaborn 
   * ### EDA and Feature Engineering on Flight Price Prediction
   Performed EDA and Feature engineering using pandas and sklearn
+## Machine Learning
+   * ### Heart Disease Prediction
+   Created a machine learning model to predict whether a person has heart disease or not ,using logistic regression
+   * ### SVM Project using Iris Flower Dataset
+   Created a machine learning model using SVM to classify Iris Fowers
+   * ### KMeans Clustering
+   Studied KMeans Clustering by using artificial data.
+   * ###  KMeans Clustering Project
+   Used KMeans Clustering to cluster Universities into to two groups, Private and Public.
+   * ### KNearest Neighbours
+   Performed KNearest Neighbours Algorithm and found out the value of k using elbow method
+   
