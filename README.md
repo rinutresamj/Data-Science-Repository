@@ -20,4 +20,6 @@ This repository contains data science projects done by me for academic as well f
    Used KMeans Clustering to cluster Universities into to two groups, Private and Public.
    * ### KNearest Neighbours
    Performed KNearest Neighbours Algorithm and found out the value of k using elbow method
-   
+## Python
+   * ### Movie Recommendation system
+   This project recommends similar movies based on the movie name given by the user.
