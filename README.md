@@ -9,6 +9,8 @@ This repository contains data science projects done by me for academic as well f
    Performed data analysis and feature engineering on Black Friday dataset .Mainly aimed to understand the customer purchase behaviour (specifically, purchase amount)      against various products of different categories. Visualised using  matplotlib and seaborn 
   * ### EDA and Feature Engineering on Flight Price Prediction
   Performed EDA and Feature engineering using pandas and sklearn
+   * ### EDA with Time series Data
+   Performed EDA with Tesla dataset.Used yfinance library to extract the dataset.
 ## Machine Learning
    * ### Heart Disease Prediction
    Created a machine learning model to predict whether a person has heart disease or not ,using logistic regression
